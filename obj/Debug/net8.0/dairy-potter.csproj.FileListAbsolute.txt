@@ -1,0 +1,14 @@
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\bin\Debug\net8.0\dairy-potter.exe
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\bin\Debug\net8.0\dairy-potter.deps.json
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\bin\Debug\net8.0\dairy-potter.runtimeconfig.json
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\bin\Debug\net8.0\dairy-potter.dll
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\bin\Debug\net8.0\dairy-potter.pdb
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\dairy-potter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\dairy-potter.AssemblyInfoInputs.cache
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\dairy-potter.AssemblyInfo.cs
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\dairy-potter.csproj.CoreCompileInputs.cache
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\dairy-potter.dll
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\refint\dairy-potter.dll
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\dairy-potter.pdb
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\dairy-potter.genruntimeconfig.cache
+C:\Users\darri\workspace\Extras\dairy-potter\dairy-potter\obj\Debug\net8.0\ref\dairy-potter.dll
